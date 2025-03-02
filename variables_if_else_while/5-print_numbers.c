@@ -12,7 +12,7 @@ int main(void)
 
 	while (taisa <= '9')
 	{
-		putchar(ulvi);
+		putchar(taisa);
 		taisa++;
 	}
 
